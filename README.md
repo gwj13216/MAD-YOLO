@@ -26,8 +26,8 @@ Custom modules are implemented under `ultralytics/nn/extra_modules/` and registe
 
 The code is based on Ultralytics 8.0.202 and was tested with:
 
-- Python 3.8
-- PyTorch 1.13.1
+- Python 3.11
+- PyTorch 2.5.0
 - TorchVision 0.14.1
 
 Install the extra dependencies:
